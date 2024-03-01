@@ -1,5 +1,3 @@
 # Thinkisto
 
-'testing this reposit'
-
-'my first in github'
+'my world, here to contribute to the community and learn from others'
